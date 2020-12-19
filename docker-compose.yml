@@ -1,0 +1,31 @@
+version: '3.9'
+
+services:
+  bookstore-database:
+    image: "mcr.microsoft.com/mssql/server"
+    environment:
+      SA_PASSWORD: "Password12345!"
+      ACCEPT_EULA: "Y"
+    container_name: database
+  bookstore-backend:
+    image: 25082000/bookstore-backend
+    build:
+      context: ./bookstore-backend
+      dockerfile: API/Dockerfile
+    container_name: backend
+    restart: on-failure
+    ports:
+      - "45763:80"
+      - "45764:443"
+    depends_on:
+      - bookstore-database
+  bookstore-frontend:
+    image: 25082000/bookstore-frontend
+    build:
+      context: ./bookstore-frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "3001:80"
+    depends_on:
+      - bookstore-backend

@@ -1,0 +1,28 @@
+<svg width="550" height="150" xmlns="http://www.w3.org/2000/svg">
+ <style>.st0{fill:#fff}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="152" width="552" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <style transform="matrix(0.07902770165533557,0,0,0.07902770165533557,0,0) ">.st0{fill:#fff}</style>
+  <text font-weight="bold" stroke="null" transform="matrix(2.6110499548121306,0,0,2.687048233690348,-323.6816387765146,-33.028225983109444) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="26" id="svg_78" y="35.229128" x="211.174645" stroke-opacity="null" stroke-width="0" fill="#ffffff">Book</text>
+  <text font-weight="bold" stroke="null" transform="matrix(2.944381072607661,0,0,2.655704366847906,-487.8854247492158,-151.45980020623207) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="26" id="svg_79" y="108.336352" x="243.127027" stroke-opacity="null" stroke-width="0" fill="#ffffff">Livraria</text>
+  <g stroke="null" id="svg_134">
+   <g stroke="null" transform="matrix(0.3572411231353752,0,0,0.2955749278499357,-191.14901874497065,-361.60441918294623) " id="svg_126">
+    <g stroke="null" id="svg_127">
+     <path fill="#007bff" stroke="null" id="svg_128" d="m731.555371,1665.444927l0,-329c-50.48,-13.51 -102.42,-20.34 -154.87,-20.34l-26.13,0c-8.28,0 -15,6.71 -15,15l0,300c0,8.28 6.72,15 15,15l26.13,0c52.53,0 104.52,7.21 154.92,21.47c-0.04,-0.72 -0.05,-1.43 -0.05,-2.13z"/>
+    </g>
+    <g stroke="null" id="svg_129">
+     <path fill="#007bff" stroke="null" id="svg_130" d="m1032.555371,1316.104927l-26.13,0c-52.45,0 -104.39,6.83 -154.87,20.34c0,0 -0.01,330.41 -0.05,331.13c50.4,-14.26 102.39,-21.47 154.92,-21.47l26.13,0c8.28,0 15,-6.72 15,-15l0,-300c0,-8.29 -6.72,-15 -15,-15z"/>
+    </g>
+    <g stroke="null" id="svg_131">
+     <path fill="#007bff" stroke="null" id="svg_132" d="m791.555371,1700.693927c-20.775,0 -30,-17.82 -30,-24.593l0,-330c2.943,14.71 14.999,24.593 30,24.593s27.057,-9.883 30,-24.592l0,330.001c0,6.772 -9.225,24.591 -30,24.591z"/>
+    </g>
+    <path fill="#007bff" stroke="null" id="svg_133" d="m995.875371,1286.204927c-64.2,1.06 -127.57,11.88 -188.55,32.21c-5.96,1.98 -11.29,5.13 -15.77,9.15c-4.48,-4.02 -9.81,-7.17 -15.77,-9.15c-60.98,-20.33 -124.35,-31.15 -188.55,-32.21l10.45,-20.9c2.67,-5.34 8.26,-8.58 14.21,-8.27c101.25,5.4 173.97,33.51 179.66,35.01c2.98,-0.79 81.43,-29.78 179.66,-35.01c5.96,-0.32 11.54,2.93 14.21,8.27l10.45,20.9z"/>
+   </g>
+  </g>
+ </g>
+</svg>
